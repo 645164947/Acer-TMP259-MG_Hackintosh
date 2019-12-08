@@ -3,7 +3,7 @@ The EFI of Acer tmp259 about MacOS 10.14*
 
 # Update List
 
-###2019.12.8
+## 2019.12.8
 
 - First upload System version 10.14.6 officaia version CLOVER r5050
 - 10.14.6
